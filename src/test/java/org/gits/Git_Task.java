@@ -12,5 +12,13 @@ public class Git_Task {
 		System.out.println("Bali");
 
 	}
+	public void Thailand() {
+	System.out.println("Thailand");	
+
+	}
+	public void Germany() {
+	System.out.println("Germany");
+
+	}
 
 }
